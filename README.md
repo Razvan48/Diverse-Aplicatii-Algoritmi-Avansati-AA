@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-&emsp; Algoritmul Genetic a fost conceput pentru a aproxima punctul de maxim al unei functii de gradul 2 (ax^2 + bx + c), folosind etapele de generare a cromozomilor, selectia lor, recombinarea si mutatia. De asemenea, cromozomul elitist trece intotdeauna in generatia urmatoare (fara sa fie supus recombinarii sau mutatiei). Polinomul dat ca parametru de intrare trebuie sa contina doar valori pozitive pe intervalul in care studiem maximul functiei. <br/>
+&emsp; Algoritmul Genetic a fost conceput pentru a aproxima punctul de maxim al unei functii de gradul 2 (ax<sup>2</sup> + bx + c), folosind etapele de generare a cromozomilor, selectia lor, recombinarea si mutatia. De asemenea, cromozomul elitist trece intotdeauna in generatia urmatoare (fara sa fie supus recombinarii sau mutatiei). Polinomul dat ca parametru de intrare trebuie sa contina doar valori pozitive pe intervalul in care studiem maximul functiei. <br/>
 
 <br/>
 <br/>
